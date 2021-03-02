@@ -78,7 +78,7 @@
   </repositories>
 
   <properties>
-    <jackson.version>2.9.10</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
